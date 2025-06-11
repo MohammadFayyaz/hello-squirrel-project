@@ -8,5 +8,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+    <color name="electric_blue">#7DF9FF</color>
+    <color name="electric_blue_dark">#2C75FF</color>
+
     <color name="card_foreground">@color/white</color>
 </resources>
